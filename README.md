@@ -54,4 +54,4 @@ Looking at the model's coefficients to see what actually drives churn, fiber opt
 
 ## Links
 
-[Original Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset?select=ufc-master.csv)
+[Original Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
