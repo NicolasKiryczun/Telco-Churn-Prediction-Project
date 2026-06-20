@@ -1,7 +1,7 @@
 # Telco-Churn-Prediction-Project
 
 
-![image](images/UFC_Project_Plots_revised.png)
+![image](images/ML_Project_Graphs.png)
 
 This repository uses Python and machine learning to predict customer churn for a telecommunications company. The project builds an end-to-end logistic regression model that takes in a customer's account and service details and outputs both the probability that they will churn and the factors driving that prediction.
 
